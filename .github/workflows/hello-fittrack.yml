@@ -3,7 +3,7 @@ name: hello-fittrack
 on: [push]
 
 jobs:
-  hello:
+  hello-fittrack:
     runs-on: ubuntu-latest
     steps:
       - name: Bonjour
