@@ -1,6 +1,8 @@
 name: exo08-partie-02
 
-on: [pull_request]
+on:
+  pull_request:
+    branches: [main]
 
 jobs:
   build:
